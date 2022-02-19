@@ -43,7 +43,7 @@
   <img src='https://user-images.githubusercontent.com/59479926/154794585-d3c8e39f-8df8-46fe-b0c2-be02010f6a55.png', width=25%> 
   <!--  도서관 검색  -->
 </p>
-## Why need this project
+<!-- ## Why need this project
 
 <p align="center">
     <img src='./image/capture.jpg', width=30%>
@@ -73,3 +73,4 @@ First, install libs
 **Just run!** <br>
 
     python main.py
+ -->
