@@ -1,16 +1,17 @@
+# 수정 중
 # 공공도서관 통합 어플리케이션 
 ## Public Library
 
 ### 메인 페이지
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/59479926/154794104-3497238f-81e5-4195-b993-0d15d10df919.png', width=50%> 
+  <img src='https://user-images.githubusercontent.com/59479926/154795798-21eb8a55-1483-4d90-8613-b2b88d8527ec.jpg', width=70%> 
   <!--  메인  -->
 </p>
 
 - 인기 장르 순위
 - 장르별 도서 인기순위
 - 도서 클릭시 상세정보 제공
-- 인기 장르 순위
+- 도서 검색 기능
 <br/>
 
 ### 상세정보 페이지
