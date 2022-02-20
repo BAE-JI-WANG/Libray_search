@@ -1,4 +1,4 @@
-# 수정 중
+<!-- # 수정 중 -->
 # 공공도서관 통합 어플리케이션 
 ## Public Library
 
@@ -17,7 +17,7 @@
 ### 상세정보 페이지
 
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/59479926/154794207-47da0f95-cd75-4f27-b4da-c0a1cdc4f026.png', width=40%> 
+  <img src='https://user-images.githubusercontent.com/59479926/154828086-0b0a19eb-5d1a-454a-a540-7fd7bee2d28c.jpg', width=70%> 
   <!--  도서검색  -->
 </p>
 
@@ -26,10 +26,21 @@
 - 도서 구매 정보 링크 제공
 <br/>
 
+### 도서대여 페이지
+
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/59479926/154828145-8928aabb-666b-4b09-a139-c701e562aaca.jpg', width=70%> 
+  <!--  도서대여  -->
+</p>
+
+- 도서 대여 기능
+- 도서 대여의 관한 정보 제공
+<br/>
+
 ### 회원정보 페이지
 
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/59479926/154794541-7a7757dc-544d-49e6-b743-320bf24e0009.png', width=25%> 
+  <img src='https://user-images.githubusercontent.com/59479926/154828233-379fe6b8-87b1-4a3a-ae6c-12b93d0fa92b.jpg', width=70%>
   <!--  도서대여  -->
 </p>
 
@@ -40,37 +51,19 @@
 
 ### 도서관 검색 
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/59479926/154794585-d3c8e39f-8df8-46fe-b0c2-be02010f6a55.png', width=25%> 
+  <img src='https://user-images.githubusercontent.com/59479926/154828283-657e33ef-824a-4876-81fa-e013c35dd60e.jpg', width=70%> 
   <!--  도서관 검색  -->
 </p>
-<!-- ## Why need this project
 
-<p align="center">
-    <img src='./image/capture.jpg', width=30%>
-    <img src='./image/capture2.jpg', width=30%>
-    <br>
-    나도 모르게 찍게 되는 타인의 초상권, 프라이버시를 보호합시다.
-</p>
+- 대구시 내 행정구역 별 공공도서관 정보 제공
+- 해당 도서관 클릭시 도서관에 대한 위치 정보를 지도로 제공
+<br/>
+
+
 ## Requirements
-- python 3
-- Pillow
-- face_recognition
-- pickle
-- opencv-contrib-python 3.4.0.14
-- dlib
-
-## Usage  
-
-First, install libs
-
-    pip install opencv-contrib-python==3.4.0.14
-    pip install dlib
-    pip install face_recognition
-    pip install pickle
-    pip install pillow
-
-
-**Just run!** <br>
-
-    python main.py
- -->
+- C#
+- .Net winform
+- Newtonsoft.Json.13.0.1
+- SunnyUI.3.0.4
+- Kakao map api
+- Naver search api
