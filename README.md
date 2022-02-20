@@ -60,7 +60,7 @@
 <br/>
 
 
-## Requirements
+## Stacks
 - C#
 - .Net winform
 - Newtonsoft.Json.13.0.1
