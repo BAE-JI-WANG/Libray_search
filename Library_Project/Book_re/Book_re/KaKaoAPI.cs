@@ -27,7 +27,7 @@ namespace Book_re
 
 
 
-            string rkey = "7c8f707824137ab3e4a20995632bf4e4";
+            string rkey = "발급받은 키";
 
             string header = "KakaoAK " + rkey;
             WebRequest request = WebRequest.Create(query);
