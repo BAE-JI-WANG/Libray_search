@@ -99,8 +99,8 @@ namespace Book_re
             //string d_isbn = "100";
             string query = string.Format("?query={0}&display={1}sort={2}", keyword, display, sort);
             WebRequest request = WebRequest.Create("https://openapi.naver.com/v1/search/book.json" + query); //요청 URL에 쿼리 붙여 보내기
-            request.Headers.Add("X-Naver-Client-Id", "IOsfdCl7CosevlzNg8G9"); //자신의 Application ID 입력
-            request.Headers.Add("X-Naver-Client-Secret", "vlS257JWD3"); //자신의 Application Secret 입력
+            request.Headers.Add("X-Naver-Client-Id", "----"); //자신의 Application ID 입력
+            request.Headers.Add("X-Naver-Client-Secret", "-----"); //자신의 Application Secret 입력
             string requestResult = "";
             using (var response = request.GetResponse())
             {
